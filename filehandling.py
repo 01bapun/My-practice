@@ -1,7 +1,7 @@
-# file=open('abc.txt','w') #open a file that will written and over written if it exists
-# msg=input("Enter the message:")
-# file.write(msg)
-# file.close
+file=open('abc.txt','w') #open a file that will written and over written if it exists
+msg=input("Enter the message:")
+file.write(msg)
+file.close
 
 
 # .................................
