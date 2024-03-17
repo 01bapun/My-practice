@@ -52,7 +52,6 @@ for i in range(len(l)):
 
 # 7.rite a Python program to read a text file line by line and print each line.
 
-
 with open("UserDetails.txt", "r") as file:
     
     lines = file.readlines()
